@@ -3,5 +3,7 @@ Pizza Algo 2
 2. Order the Pizza.
 3. Go to the pizza place.
 4. Eat the pizza.
-5. Go home.
-6. Sleep
+5. Drink some water
+6. Go home.
+7. Brush my teeth.
+8. Sleep
